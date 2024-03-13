@@ -1,0 +1,15 @@
+/home/skqu/last_lectures/bin/Debug/net8.0/last_lectures
+/home/skqu/last_lectures/bin/Debug/net8.0/last_lectures.deps.json
+/home/skqu/last_lectures/bin/Debug/net8.0/last_lectures.runtimeconfig.json
+/home/skqu/last_lectures/bin/Debug/net8.0/last_lectures.dll
+/home/skqu/last_lectures/bin/Debug/net8.0/last_lectures.pdb
+/home/skqu/last_lectures/obj/Debug/net8.0/last_lectures.GeneratedMSBuildEditorConfig.editorconfig
+/home/skqu/last_lectures/obj/Debug/net8.0/last_lectures.AssemblyInfoInputs.cache
+/home/skqu/last_lectures/obj/Debug/net8.0/last_lectures.AssemblyInfo.cs
+/home/skqu/last_lectures/obj/Debug/net8.0/last_lectures.csproj.CoreCompileInputs.cache
+/home/skqu/last_lectures/obj/Debug/net8.0/last_lectures.sourcelink.json
+/home/skqu/last_lectures/obj/Debug/net8.0/last_lectures.dll
+/home/skqu/last_lectures/obj/Debug/net8.0/refint/last_lectures.dll
+/home/skqu/last_lectures/obj/Debug/net8.0/last_lectures.pdb
+/home/skqu/last_lectures/obj/Debug/net8.0/last_lectures.genruntimeconfig.cache
+/home/skqu/last_lectures/obj/Debug/net8.0/ref/last_lectures.dll
